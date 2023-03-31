@@ -1,0 +1,54 @@
+# pickle
+*.pkl
+*.pickle
+
+# csv
+*.csv
+
+# feather
+*.feather
+*.fea
+
+# parquet
+*.parquet
+*.pqt
+
+# npy
+*.npy
+
+# hdf
+*.hdf
+*.h4
+*.hdf4
+*.he2
+*.h5
+*.hdf5
+*.he5 
+
+# netcdf4
+*.netcdf4
+*.nc
+
+# json
+*.json
+*.json.gz
+
+# excel
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# misc
+*.txt
+*.xml
+*.arff
+*.argg.gz
+*.names
+*.data
+*.libsvm
+*.m
+*.dat
+*.bsi
+*.xrff
+*.xrff.gz
