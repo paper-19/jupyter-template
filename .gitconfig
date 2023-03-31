@@ -1,3 +1,3 @@
 [filter "jupyternotebook"]
-	clean = pipenv run jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace %f
+	clean = pipenv run jupyter nbconvert --to notebook --ClearOutputPreprocessor.enabled=True --inplace %f
 	required
